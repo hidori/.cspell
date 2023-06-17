@@ -1,0 +1,2 @@
+# .cspell
+cSpell dictionaries
