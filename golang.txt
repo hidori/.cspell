@@ -12,6 +12,7 @@ Getwd
 goimports
 linq
 Lparen
+openapi
 Panicf
 Println
 Rparen
